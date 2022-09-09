@@ -1,6 +1,6 @@
 # Snake game
 
-**purpose:** Barebones implementation of the snake game using OpenGL and C++.
+A barebones implementation of the snake game using OpenGL and C++.
 
 ### compilation
 
